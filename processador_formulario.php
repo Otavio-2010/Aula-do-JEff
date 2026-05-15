@@ -38,3 +38,5 @@ echo "Não anjo: $safadeza% <br>";
 echo "Anjo: $anjo%";
 
 }
+
+safadao($mes, $dia, $ano);
